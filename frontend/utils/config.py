@@ -1,0 +1,2 @@
+# utils/config.py
+BASE_URL = "http://backend:8000"

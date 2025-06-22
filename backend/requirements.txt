@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-multipart
+python-jose[cryptography]
+pydantic[email]
+prometheus-client
+prometheus-fastapi-instrumentator
